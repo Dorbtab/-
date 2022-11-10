@@ -1,0 +1,5 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Heebo&family=Noto+Sans+Mono:wght@700&family=Noto+Sans:wght@400;800&family=Poor+Story&display=swap');
+.notosans{font-family: "Noto Sans Mono";}
